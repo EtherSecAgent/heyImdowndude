@@ -3,7 +3,7 @@ A Powershell script, that monitors and pulls the status of url links, when links
 
 
 #Instructions 
-Add Url links to URLList.txt
+Add Url links to URLList.txt (urls must have http for examaple "http://google.com" (no quotes)
 
 Edit lines 72 through 82 with your proper email config "Username, password, SMTP Port, TO AND FROM"
 
