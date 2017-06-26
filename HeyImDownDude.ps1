@@ -72,7 +72,7 @@ if  ($report -match "http")
     $EmailFrom = "YOUREMAIL" 
     $EmailTo = "WHEREYOURSENDINGEMAIL" 
     $SMTPServer = "smtp.gmail.com" 
-    $EmailSubject = "Services Monitoring Result"  
+    $EmailSubject = "HeyImDownDude"  
  
     #Send mail with output 
     $mailmessage = New-Object system.net.mail.mailmessage  
